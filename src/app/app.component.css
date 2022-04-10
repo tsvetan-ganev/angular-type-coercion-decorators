@@ -1,0 +1,4 @@
+:host my-counter, :host my-short-date {
+  display: block;
+  margin-bottom: 1rem;
+}
